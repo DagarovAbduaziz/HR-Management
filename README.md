@@ -1,1 +1,1 @@
-# HR-Management
+#Human Resource management application (very basic)
